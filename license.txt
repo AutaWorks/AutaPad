@@ -1,0 +1,15 @@
+AutaPad Kullanım Lisansı
+
+Telif Hakkı © 2026 AutaWorks. Tüm hakları saklıdır.
+
+Bu yazılım AutaWorks tarafından geliştirilmiştir. Kaynak kodu paylaşılmamaktadır.
+Yazılım ücretsiz olarak indirilebilir ve kullanılabilir. 
+
+Koşullar:
+- Yazılım üzerinde değişiklik yapılması, yeniden dağıtılması veya ticari amaçla satılması yasaktır.
+- Yazılım yalnızca kişisel kullanım içindir.
+- Yazılım "olduğu gibi" sunulmaktadır; herhangi bir garanti verilmez.
+- Yazılımı kullanarak bu koşulları kabul etmiş olursunuz.
+
+Sorumluluk reddi:
+Bu yazılımın kullanımı sırasında oluşabilecek veri kaybı, hatalar veya diğer sorunlardan geliştirici sorumlu tutulamaz.
