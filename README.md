@@ -18,7 +18,12 @@ Windows için tasarlanmış olup, sade arayüzü ve Türkçe menü desteği ile 
 4. Masaüstü veya Başlat menüsünden AutaPad’i açın.
 
 ## 🖼️ Ekran Görüntüsü
-*(Buraya uygulamanın ekran görüntüsünü ekleyebilirsin)*
+<img width="1160" height="671" alt="image" src="https://github.com/user-attachments/assets/025cfd1c-c549-48fc-8c39-4522a9fe2064" />
+<img width="1187" height="699" alt="image" src="https://github.com/user-attachments/assets/2145be8b-2fa0-4dec-9457-eed68e814bc1" />
+<img width="1220" height="710" alt="image" src="https://github.com/user-attachments/assets/3025545a-6504-460e-9f4c-02d71da4bb6a" />
+
+
+
 
 ## 📜 Lisans
 Telif Hakkı © 2026 **AutaWorks**.  
