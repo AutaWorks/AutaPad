@@ -12,7 +12,7 @@ Windows için tasarlanmış olup, sade arayüzü ve Türkçe menü desteği ile 
 - Hafif ve hızlı çalışma
 
 ## 📦 Kurulum
-1. [Releases]([https://github.com/AutaWorks/AutaPad/releases]) bölümünden son sürümü indirin.
+1. [Releases](https://github.com/AutaWorks/AutaPad/releases) bölümünden son sürümü indirin.
 2. `AutaPadSetup.exe` dosyasını çalıştırın.
 3. Kurulum sihirbazında lisans sözleşmesini kabul edin.
 4. Masaüstü veya Başlat menüsünden AutaPad’i açın.
