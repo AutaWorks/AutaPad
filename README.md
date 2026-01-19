@@ -10,6 +10,8 @@ Sade arayüzü, Türkçe menü desteği ve hızlı performansıyla hem geliştir
 - 🎨 Ayarlar menüsü ile tema ve görünüm seçenekleri (açık/koyu mod)
 - ↩️ Undo/Redo desteği ile kolay düzenleme
 - 🔍 Çoklu seçim ile gelişmiş arama özelliği
+- 🔍 Ctrl + MouseWheel ile metin yakınlaştırma/uzaklaştırma (10–50 arası)
+- 📑 Sekmeli not defteri: Tek pencerede birden fazla not açma desteği
 - 🇹🇷 Türkçe arayüz ve ikonlu menüler
 - ⚡ Hafif ve hızlı çalışma, düşük sistem kaynağı kullanımı
 - 🖱️ Kullanıcı dostu arayüz, modern tasarım
@@ -34,6 +36,9 @@ Sade arayüzü, Türkçe menü desteği ve hızlı performansıyla hem geliştir
 ---
 
 ## 📢 Sürüm Notları
+**v1.3 – Ocak 2026**  
+- Ctrl + MouseWheel ile metin yakınlaştırma/uzaklaştırma özelliği eklendi  
+
 **v1.2 – Ocak 2026**  
 - `.bat` dosyası desteği kaldırıldı  
 - Sürüm bilgisi artık Ayarlar penceresinde görüntüleniyor  
@@ -51,4 +56,4 @@ Tüm hakları saklıdır.
 
 ## 💬 Geri Bildirim & Topluluk
 AutaPad’i daha iyi hale getirmek için geri bildirimlerinizi bekliyoruz.  
-📧 İletişim: autaworks.dev@outlook.com  
+📧 İletişim: autaworks.dev@outlook.com
