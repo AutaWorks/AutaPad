@@ -11,7 +11,6 @@ Sade arayüzü, Türkçe menü desteği ve hızlı performansıyla hem geliştir
 - ↩️ Undo/Redo desteği ile kolay düzenleme
 - 🔍 Çoklu seçim ile gelişmiş arama özelliği
 - 🔍 Ctrl + MouseWheel ile metin yakınlaştırma/uzaklaştırma (10–50 arası)
-- 📑 Sekmeli not defteri: Tek pencerede birden fazla not açma desteği
 - 🇹🇷 Türkçe arayüz ve ikonlu menüler
 - ⚡ Hafif ve hızlı çalışma, düşük sistem kaynağı kullanımı
 - 🖱️ Kullanıcı dostu arayüz, modern tasarım
