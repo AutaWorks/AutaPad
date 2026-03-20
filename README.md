@@ -35,6 +35,9 @@ Sade arayüzü, Türkçe menü desteği ve hızlı performansıyla hem geliştir
 ---
 
 ## 📢 Sürüm Notları
+**v1.4 – Mart 2026**  
+- Yenilikler Sekmesi eklendi 
+
 **v1.3 – Ocak 2026**  
 - Ctrl + MouseWheel ile metin yakınlaştırma/uzaklaştırma özelliği eklendi  
 
