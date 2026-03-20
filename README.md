@@ -31,6 +31,8 @@ Sade arayüzü, Türkçe menü desteği ve hızlı performansıyla hem geliştir
 <img width="1160" height="671" alt="image" src="https://github.com/user-attachments/assets/025cfd1c-c549-48fc-8c39-4522a9fe2064" />  
 <img width="1187" height="699" alt="image" src="https://github.com/user-attachments/assets/2145be8b-2fa0-4dec-9457-eed68e814bc1" />  
 <img width="1220" height="710" alt="image" src="https://github.com/user-attachments/assets/3025545a-6504-460e-9f4c-02d71da4bb6a" />  
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/36e23bb6-0d6d-4664-91f5-1c9a85ef3c2a" />
+
 
 ---
 
